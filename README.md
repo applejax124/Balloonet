@@ -1,9 +1,6 @@
 # Balloonet
 
-Tim Burchfield
-Cami Carballo
-Doug Smith
-Noah Yoshida
+Tim Burchfield | Cami Carballo | Doug Smith | Noah Yoshida
 
 ## Dependencies
 
